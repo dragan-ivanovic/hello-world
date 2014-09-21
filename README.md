@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-The first 
+A test of using Github.
